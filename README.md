@@ -9,7 +9,7 @@ Learn Flutter with love.
 ## Getting Started
 
 
-![alt text](https://github.com/kzjn10/Flutter_Tinder/blob/master/graphic/preview.gif "Resoure")
+![alt text](https://github.com/kzjn10/Flutter_Tinder/blob/master/graphic/preview_app.gif "Resoure")
 
 
 
