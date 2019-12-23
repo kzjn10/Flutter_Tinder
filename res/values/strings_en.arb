@@ -1,0 +1,18 @@
+{
+  "card_lbl_myProfile": "My profile is",
+  "card_lbl_myProfileBuilder": "$gender $first $last",
+  "card_lbl_myBirthday": "My Dob",
+  "card_lbl_myAddress": "My address is",
+  "card_lbl_myPhone": "My phone number is",
+  "card_lbl_myStatus": "My status is",
+  "card_lbl_dismissToLoadNextBatch": "is your?",
+  "card_lbl_dismissToLoadNextBatchDescription": "Swipe left to load next profile",
+  "card_lbl_favoriteList": "Favorite list",
+  "card_lbl_btnClose": "Close",
+  "card_lbl_noFavoriteItem": "Oh!!! nothing to show",
+  "card_lbl_existItemMsg": "No need, it's available on Favorite list",
+  "card_lbl_addFavoriteSuccess": "Add favorite success",
+  "card_lbl_error": "Oh, have something wrong\nTap to retry",
+  "card_lbl_next": "Next profile",
+  "card_lbl_addFavorite": "Add Favorite"
+}
